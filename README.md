@@ -11,8 +11,27 @@ This python application generate mandelbrot `bmp`
 python main.ppy
 ```
 
-## Usage
+## TODO
 
+- Add color
+- Slipt oython code
+- Add arguments for 
+
+```python
+        # Max iteration
+        self.maxit = 1000
+        # Image size (pixels)
+        self.width = 800
+        self.height = 800
+        # Define Real
+        self.re_start = -2
+        self.re_end = 2
+        # Define Image
+        self.im_start = -1
+        self.im_end = 1
+        # Define Output file
+        self.output = "foo.bmp"
+```
 
 ## Help
 

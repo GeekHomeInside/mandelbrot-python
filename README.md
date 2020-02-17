@@ -12,9 +12,12 @@ pip install --user -U requirements.txt
 python main.py
 ```
 
+Inspered from [CodeInGame - Mandelbrot Set](https://www.codingame.com/playgrounds/2358/how-to-plot-the-mandelbrot-set/mandelbrot-set)
+
 ## TODO
 
 - Add color
+- Add other subfolder to principal program
 - Slipt oython code
 - Add status bar
 - Add arguments for 

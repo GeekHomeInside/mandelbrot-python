@@ -7,14 +7,16 @@ This python application generate mandelbrot `bmp`
 ## Quick Start
 
 ```sh
+pip install --user -U requirements.txt
 
-python main.ppy
+python main.py
 ```
 
 ## TODO
 
 - Add color
 - Slipt oython code
+- Add status bar
 - Add arguments for 
 
 ```python
